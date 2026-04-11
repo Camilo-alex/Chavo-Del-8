@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vecindad
+comment1.params=
+comment1.target=Vecindad()
+comment2.params=
+comment2.target=Personaje\ getPersonajes()
+comment3.params=personajes
+comment3.target=void\ setPersonajes(Personaje)
+comment4.params=
+comment4.target=ObjetoInteractivo\ getObjetos()
+comment5.params=objetos
+comment5.target=void\ setObjetos(ObjetoInteractivo)
+comment6.params=p
+comment6.target=void\ agregarPersonaje(Personaje)
+comment7.params=o
+comment7.target=void\ agregarObjeto(ObjetoInteractivo)
+comment8.params=
+comment8.target=void\ mostrarPersonajes()
+numComments=9

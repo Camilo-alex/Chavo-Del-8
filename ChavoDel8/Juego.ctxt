@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ nuevaVecindad()
+comment3.params=v
+comment3.target=void\ crearPersonajes(Vecindad)
+comment4.params=v
+comment4.target=void\ crearObjetosInteractivos(Vecindad)
+comment5.params=v
+comment5.target=void\ agregarElementosVecindad(Vecindad)
+comment6.params=v
+comment6.target=void\ simularInteracciones(Vecindad)
+numComments=7

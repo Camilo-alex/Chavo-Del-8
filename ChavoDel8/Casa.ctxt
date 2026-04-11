@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Casa
+comment1.params=
+comment1.target=int\ getNumero()
+comment2.params=
+comment2.target=java.lang.String\ getPropietario()
+comment3.params=numero
+comment3.target=void\ setNumero(int)
+comment4.params=propietario
+comment4.target=void\ setPropietario(java.lang.String)
+comment5.params=
+comment5.target=void\ entrar()
+numComments=6
